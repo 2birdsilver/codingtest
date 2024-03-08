@@ -7,4 +7,3 @@ for i in range(row):
     result = max(result, min(data))
 
 print(result)
-
